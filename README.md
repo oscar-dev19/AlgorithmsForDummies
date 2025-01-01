@@ -4,7 +4,7 @@ ___
 - Chapter 1: Introduction
     - Introducing Algorithms
     - Describing Algorithms
-    - Using Cmputers to Solve Problems
+    - Using Computers to Solve Problems
     - Distinguishing between issues and Solutions
     - Structuring Data to obtain a Solution
 ___
