@@ -1,0 +1,49 @@
+# Byte-compiled files
+*.pyc
+*.pyo
+__pycache__/
+
+# Environment files
+.env
+.env.*
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Temporary files
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Output and temporary directories
+output/
+temp/
+tmp/
+
+# Data files
+*.csv
+*.tsv
+*.json
+*.xml
+*.xls
+*.xlsx
+*.h5
+*.hdf5
+
+# Virtual environment directories
+venv/
+.env/
+.venv/
+
+# Logs
+*.log
+
+# Jupyter Notebook metadata
+*.nbconvert/
+*.nbconvert.ipynb
+
+# Ignore all hidden files in root directory (optional)
+.*
+!.gitignore
+
